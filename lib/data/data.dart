@@ -33,7 +33,7 @@ final _restaurant0 = Restaurant(
   imageUrl: "assets/images/restaurant0.jpg",
   name: "Haveli Restaurant",
   address: "2170-A Food St Fort Rd",
-  rating: 5,
+  rating: 4,
   menu: [_burrito, _steak, _pasta, _ramen, _pancakes, _burger, _pizza, _salmon],
 );
 
@@ -41,7 +41,7 @@ final _restaurant1 = Restaurant(
   imageUrl: "assets/images/restaurant1.jpg",
   name: "Andaaz Restaurant",
   address: "2189 A Fort Rd",
-  rating: 4.1,
+  rating: 2.1,
   menu: [_steak, _pasta, _ramen, _pancakes, _burger, _pizza],
 );
 
